@@ -39,7 +39,7 @@ Displaying 25 Prophet story and biography from a local API.
 Contributors names and contact info
 
 ex. Muhammad Fathan Hakim
-ex. [auliamnaufal](https://github.com/Fathkim)
+ex. [Fathkim](https://github.com/Fathkim)
 
 ## Version History
 
